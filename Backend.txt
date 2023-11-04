@@ -1,0 +1,10 @@
+Node Js is runtime enviornment of javascript which extends javascript code outside the browser.
+
+For intitialisation of node project -> npm init -y
+
+
+Http methods -
+Get - Read Data
+Post - create Data
+Put - Update Data
+Delete - Delete Data
